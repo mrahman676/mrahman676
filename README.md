@@ -11,7 +11,7 @@
 
 - 📫 How to reach me: **mohammed.rahman676@gmail.com**
 
-- 📄 Know about my experiences: [file:///C:/Users/moham/Downloads/Mohammed-Rahman-Resume.pdf](file:///C:/Users/moham/Downloads/Mohammed-Rahman-Resume.pdf)
+- 📄 Know about my experiences: [resume.pdf](./resume.pdf)
 
 - ⚡ Fun fact **I create electronic & rap music**
 <p align="left">
