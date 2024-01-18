@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences: [resume.pdf](./resume.pdf)
 
-- ⚡ Fun fact **I create electronic & rap music**
+- ⚡ Fun fact: **I create electronic & rap music**
 <p align="left">
 </p>
 
