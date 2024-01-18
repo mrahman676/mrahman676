@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrahman676&label=Profile%20views&color=0e75b6&style=flat" alt="mrahman676" /> </p>
 
-- 🔭 I’m currently working on: [Travel-Destination-Generator](https://github.com/fumitsukai/Travel-Destination-Generator)
+- 🔭 I’m currently working on: [Weather-Dashboard](https://github.com/mrahman676/weather-dashboard) & [Travel-Destination-Generator](https://github.com/fumitsukai/Travel-Destination-Generator)
 
 - 🌱 I’m currently learning: **JavaScript, JQuery & Server Side API's**
 
